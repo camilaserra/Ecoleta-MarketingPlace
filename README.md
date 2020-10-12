@@ -17,7 +17,7 @@ Projeto Open Source desenvolvido na #NextLevelWeek-1.0 da [Rocketseat], utilizan
 - SQLite 
 
 ## **:rocket: OBJETIVO**
-O Ecoleta foi um projeto criado para cadastrar/coletar resíduos de diferentes materiais, a plataforma consiste da seguinte maneira, o usuário pode fazer a busca atravez do campo "buscar", para encontrar pontos de coleta mais próximos de sua residência ou criar um ponto de coleta para arrecadar esses resíduos. 
+Ecoleta foi um projeto criado para cadastrar/coletar resíduos de diferentes materiais, a plataforma consiste da seguinte maneira, o usuário pode fazer a busca atravez do campo "buscar", para encontrar pontos de coleta mais próximos de sua residência ou criar um ponto de coleta para arrecadar esses resíduos. 
 
 ## **:wrench: COMO CONFIGURAR O AMBIENTE?**
   
