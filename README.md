@@ -1,13 +1,13 @@
 <div>
  <div align=center>
 
-  <img src="" width="700" >
+  <img src="https://user-images.githubusercontent.com/66450896/95782764-d0ac7680-0ca6-11eb-87a1-20a8d7125363.jpg" width="700" >
 
 </div>
 
 <h3>
 
-Projeto Open Source desenvolvido na #NextLevelWeek-2.0 da [Rocketseat], utilizando:
+Projeto Open Source desenvolvido na #NextLevelWeek-1.0 da [Rocketseat], utilizando:
 
 - HTML
 - CSS
