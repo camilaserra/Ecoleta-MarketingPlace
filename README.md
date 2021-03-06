@@ -26,13 +26,15 @@ Ecoleta foi um projeto criado para cadastrar/coletar resíduos de diferentes mat
 # 1º Passo: Clone o repositório
 
 git clone https://git@github.com:camilaserra/Ecoleta-marketingplace.git
-# 2º Passo: Entrer no diretório
+# 2º Passo: Entre no diretório
 
-cd Ecoleta-Marketingplace
+Abra o projeto no editor de sua preferencia (o que uso é o VS Code :)) em seu terminal instale as dependencias : npm install node .
 
-# 3º Passo: Abra o terminal e Execute o servidor: 
+Aguarde a instalação...
 
-npm start 
+# 3º Passo: agora você executa o seguinte comando, que ira ligar o servidor: 
+
+node src/server.js
 
 ```
 
