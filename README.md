@@ -34,7 +34,7 @@ Aguarde a instalação...
 
 # 3º Passo: agora você executa o seguinte comando, que ira ligar o servidor: 
 
-node src/server.js
+npm start
 
 ```
 
